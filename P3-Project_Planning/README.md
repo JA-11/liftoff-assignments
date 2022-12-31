@@ -7,13 +7,18 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
+https://miro.com/app/board/uXjVP4STnGU=/
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+Frames:
+1 – Home/Not logged in/Search page
+2 – Create account page (maybe modal)
+3 – Log In (modal)
+4 – User Profile/Search while logged in page
+5 – Search Results page
+6 – User Watch List page
 
 ### Project Tracker
-
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+https://trello.com/b/WfPiNOx0/liftoff-project
 
 ### Project Repo Link
-
-Include a link to your project on GitHub.
+https://github.com/STL-WomenPlus-Mar22-LiftOff/group-kj
